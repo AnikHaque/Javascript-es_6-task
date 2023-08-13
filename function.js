@@ -13,12 +13,12 @@ function findMaxNumber(numbers) {
   return maxNumber;
 }
 
-// Example usage
+
 const numbers1 = [10, 20, 5, 30, 25];
-console.log(findMaxNumber(numbers1)); // Output: 30
+console.log(findMaxNumber(numbers1));
 
 const numbers2 = [5, 15, 7];
-console.log(findMaxNumber(numbers2)); // Output: 15
+console.log(findMaxNumber(numbers2));
 
 const emptyArray = [];
-console.log(findMaxNumber(emptyArray)); // Output: null
+console.log(findMaxNumber(emptyArray));
