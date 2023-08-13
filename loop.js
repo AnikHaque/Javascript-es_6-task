@@ -8,7 +8,6 @@ function printObjectProperties(obj) {
   }
 }
 
-// Example usage
 const myObject = {
   name: "John",
   age: 30,
